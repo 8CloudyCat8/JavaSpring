@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class EighthHomework3Application {
-
     public static void main(String[] args) {
         SpringApplication.run(EighthHomework3Application.class, args);
     }
-
 }
